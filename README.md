@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rifat 👋
 
-<!--
-**Rifat-Profiles/Rifat-Profiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer / Tech Enthusiast focused on building clean, efficient applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+**Languages:** Python | JavaScript | C++  
+**Frameworks & Tools:** React | Node.js | Git | Linux
+
+---
+
+### 📌 About Me
+- 🔭 Currently working on personal projects and open-source software
+- 📚 Always learning new technologies and software patterns
+- 💬 Ask me about web development and system design
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Website-121013?style=flat-square&logo=html5&logoColor=white)](https://porfolioua.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rifatmohsin716@gmail.com)
